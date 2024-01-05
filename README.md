@@ -1,0 +1,1 @@
+# os-x86_32-template
